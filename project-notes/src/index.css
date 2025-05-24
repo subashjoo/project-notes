@@ -16,7 +16,7 @@ button{
     border-radius: 0.2rem;
     cursor: pointer;
     box-shadow: 0.2rem 0.2rem 0.2rem gray;
-    transition: ;
+    transition:0;
 }
 button:hover{
     box-shadow: 0.3rem 0.3rem 0.3rem gray;
